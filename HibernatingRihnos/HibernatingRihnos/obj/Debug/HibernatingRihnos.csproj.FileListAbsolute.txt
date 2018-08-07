@@ -1,0 +1,6 @@
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\bin\Debug\HibernatingRihnos.exe.config
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\bin\Debug\HibernatingRihnos.exe
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\bin\Debug\HibernatingRihnos.pdb
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\obj\Debug\HibernatingRihnos.csprojResolveAssemblyReference.cache
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\obj\Debug\HibernatingRihnos.exe
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\HibernatingRihnos\obj\Debug\HibernatingRihnos.pdb

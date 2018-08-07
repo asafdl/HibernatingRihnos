@@ -1,0 +1,8 @@
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\bin\Debug\HibernatingRihnos.exe
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\bin\Debug\HibernatingRihnos.pdb
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Asafs Folder\GitRepository\HibernatingRihnos\HibernatingRihnos\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
